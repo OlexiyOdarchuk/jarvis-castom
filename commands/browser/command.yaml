@@ -1,0 +1,93 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/Run browser.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой браузер
+  - запусти браузер
+  - открой гугл хром
+  - гугл хром
+
+- command:
+    action: ahk
+    exe_path: ahk/Run google.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - открой гугл
+  - гугл
+  - запусти гугл
+  - перейди в гугл
+
+- command:
+    action: ahk
+    exe_path: ahk/Run youtube.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - открой ютуб
+  - ютуб
+  - запусти ютуб
+
+- command:
+    action: ahk
+    exe_path: ahk/Run translate.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - переводчик
+  - переведи текст
+  - открой переводчик
+
+- command:
+    action: ahk
+    exe_path: ahk/Run gpt.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - интелект
+  - запусти нейронку
+  - нейросеть
+  - искуственный интелект
+  - нейронка
+
+- command:
+    action: ahk
+    exe_path: ahk/Run music.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - кайфани
+  - кайфануть
+  - бит
+  - хочу кайфануть

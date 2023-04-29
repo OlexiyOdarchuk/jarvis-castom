@@ -1,0 +1,30 @@
+list:
+- command:
+    action: terminate
+    exe_path:
+    exe_args:
+  voice:
+    sounds:
+    - off
+  phrases:
+  - выключись
+  - вырубись
+  - завершить работу
+  - закройся
+  - отключись
+  - заверши свою работу
+  - на сегодня хватит
+  - выгрузи себя из памяти
+  - ты мне надоел
+
+- command:
+    action: ahk
+    exe_path: ahk/reboot.exe
+    exe_args:
+  voice:
+    sounds:
+    - off
+  phrases:
+  - перезагрузись
+  - перезагрузи себя
+  - выполни перезагрузку

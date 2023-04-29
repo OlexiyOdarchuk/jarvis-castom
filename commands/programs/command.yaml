@@ -1,0 +1,268 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/Run fortnite.exe
+    exe_args:
+  voice:
+    sounds:
+    - ready
+  phrases:
+  - запусти форт
+  - запусти фортнайт
+  - открой фортнайт
+  - открой форт
+  - форт
+  - фортнайт
+
+- command:
+    action: ahk
+    exe_path: ahk/Run telegram.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - включи телеграмм
+  - телеграмм
+  - запусти телеграмм
+  - открой телеграмм  
+
+- command:
+    action: ahk
+    exe_path: ahk/Run tiktok.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - тик ток
+  - эфир
+  - стрим
+
+- command:
+    action: ahk
+    exe_path: ahk/Run sheepchat.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - стрим чат
+  - запусти чат
+  - щоб чат
+  - чат
+
+- command:
+    action: ahk
+    exe_path: ahk/Close telegram.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - закрой телеграмм
+  - выключи телеграмм
+  - отключи телеграмм
+  - закрой телеграм
+  - выключи телеграм
+  - отключи телеграм
+
+- command:
+    action: ahk
+    exe_path: ahk/Task manager open.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - запусти диспетчер задач
+  - открой диспетчер задач
+  - диспетчер задач
+
+- command:
+    action: ahk
+    exe_path: ahk/Run spotify.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - открой спать и фай
+  - открой спать и вай
+  - открой спать фай
+  - спать фай
+  - спать и вай
+  - спать и фай
+  - запусти спать фай 
+  - запусти спать и фай
+  - запусти спать и вай  
+  - с против и
+  - с почвой
+  - спаде фай
+  - споде фай
+  - споде фой
+  - спаде фой
+  - открой спортивной
+  - спортивной
+  - включи с против и
+  - открой с против и
+
+- command:
+    action: ahk
+    exe_path: ahk/Open discord.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой дискорд
+  - запусти дискорд
+  - включи дискорд
+  - дискорд
+  - дискомфорт
+  - я скотт
+  - запусти дискомфорт 
+  - открой дискомфорт
+  - включи я скотт
+  - включи дискомфорт
+  
+- command:
+    action: ahk
+    exe_path: ahk/Close discord.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - закрой дискорд
+  - отключи дискорд
+  - выключи дискорд
+  - отключи я скотт
+  - закрой я скотт
+  - выключи дискомфорт
+  - закрой дискомфорт
+  - отключи дискомфорт
+- command:
+    action: ahk
+    exe_path: ahk/Open weather.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой погоду
+  - покажи погоду
+  - запусти погоду
+  - погода
+  - какая сегодня погода
+
+- command:
+    action: ahk
+    exe_path: ahk/Close weather.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - закрой погоду
+  - отключи погоду
+  - выключи погоду
+  - закрой приложение погоды
+  - отключи приложение погоды
+  - выключи приложение погоды
+
+- command:
+    action: ahk
+    exe_path: ahk/Open voice recorder.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой диктофон
+  - покажи диктофон
+  - запусти диктофон
+  - диктофон
+  - запись
+  - запись звука
+  - начни запись звука
+  - начни запись
+
+- command:
+    action: ahk
+    exe_path: ahk/Close voice recorder.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - закрой диктофон
+  - отключи диктофон
+  - выключи диктофон
+  - заверши запись звука
+  - выключи запись звука
+
+- command:
+    action: ahk
+    exe_path: ahk/Open calculator.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - калькулятор
+  - открой калькулятор
+  - запусти калькулятор
+
+- command:
+    action: ahk
+    exe_path: ahk/Close spotify.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+    - ok4
+  phrases:
+  - закрой спать и фай
+  - закрой спать и вай
+  - закрой спать фай
+  - выключи спать фай 
+  - выключи спать и фай
+  - выключи спать и вай  
+  - закрой с почвой
+  - закрой спойте фай
+  - выключи с почвой
+  - выключи спойте фай
+  - закрой спортивной
+  - выключи спортивной
+  - закрой с против и
+  - выключи с против и
