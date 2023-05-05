@@ -6,6 +6,7 @@ list:
   voice:
     sounds:
     - ready
+    - game_mode
   phrases:
   - запусти форт
   - запусти фортнайт
@@ -38,6 +39,7 @@ list:
     - ok1
     - ok2
     - ok3
+    - ready
   phrases:
   - тик ток
   - эфир
@@ -52,6 +54,7 @@ list:
     - ok1
     - ok2
     - ok3
+    - ready
   phrases:
   - стрим чат
   - запусти чат
